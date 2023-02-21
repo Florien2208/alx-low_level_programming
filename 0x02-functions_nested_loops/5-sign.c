@@ -2,7 +2,7 @@
 
 /**
 * print_sign - check for sign
-* @c: print alphabet - make the alphabet
+* @n: print alphabet - make the alphabet
 * Return: 1 for positive, -1 for negative
 */
 
