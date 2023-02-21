@@ -2,7 +2,7 @@
 
 /**
 * _islower - check for lowercase letter
-* print alphabet - make the alphabet
+* @c: print alphabet - make the alphabet
 * Return: 1 for lowercase character or 0 for anything else
 */
 
