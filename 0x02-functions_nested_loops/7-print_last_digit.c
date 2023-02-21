@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
-* print_last_digit  - check for last digit 
-* @last: print alphabet - make the alphabet
+* print_last_digit - check for last digit 
+* @n: print alphabet - make the alphabet
 * Return: return the value of last digit
 */
 
